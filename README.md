@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chirag6189
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning app development 
 - 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me ...
+- 📫 email "jadhavchirag487@gmail.com"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
